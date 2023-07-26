@@ -129,7 +129,7 @@ main {
 }
 
 .card-2 {
-    background-color: var(--clr-primary-cyan);
+    background-color: hsl(179, 75%, 35%);
     border-bottom-left-radius: 10px;
     grid-area: card-2;
 }
@@ -182,7 +182,7 @@ main {
 }
 
 .card-3 {
-    background-color: hsl(179, 75%, 35%);
+    background-color: var(--clr-primary-cyan);
     color: var(--clr-neutral-light-gray);
     grid-area: card-3;
     border-bottom-right-radius: 10px;
